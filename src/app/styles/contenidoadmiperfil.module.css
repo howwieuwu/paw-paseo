@@ -1,0 +1,50 @@
+.Contenido_AdminPerfil {
+    width: 74%;
+    margin: 3%;
+    background-color: #D9D9D9;
+    border-radius: 20px 20px 20px 20px;
+    text-align: center;
+}
+.Texto {
+    text-align: center;
+    color: black;
+}
+.FotoPerfil2 {
+    margin-top: 30px;
+    width: 100px;
+    height: 100px;
+}
+
+/* Empieza los nav */
+.InformacionAdmin {
+    margin-top: 3%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.InformacionAdminText {
+    border: 1px solid black;
+}
+
+/* Termina los nav */
+
+/* Boton de Cambiar la foto */ 
+.Editar {
+    margin-top: 3%;
+    width: 20%;
+    height: 15%;
+    font-size: 20px;
+}
+
+.EditarImagen {
+    width: 20px;
+    height: 20px;
+    margin-left: 8px;
+}
+
+/*  Termina Boton de Cambiar la foto */ 
+
+/* Termina Contenido del Admin Perfil */
+
+/* Termina el main */
